@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub
+# Bienvenue sur mon profil GitHub 👋
 
 - 📫 Contactez-moi sur **to.doguet@gmail.com**
 
