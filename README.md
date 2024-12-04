@@ -27,13 +27,15 @@
 ## En apprentissage / perfectionnement
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://www.djangoproject.com/)
+
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
-
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://www.djangoproject.com/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=38B2AC)](https://tailwindcss.com/)
+
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
 
