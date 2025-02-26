@@ -16,8 +16,11 @@
 [![JAVA](https://img.shields.io/badge/-JAVA-000?&logo=JAVA&logoColor=007396)](https://www.java.com/fr/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
+
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
@@ -26,15 +29,21 @@
 
 ## En apprentissage / perfectionnement
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
+
 [![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://www.djangoproject.com/)
 
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
+
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://nextjs.org/)
+
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=38B2AC)](https://tailwindcss.com/)
+
+[![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma&logoColor=2D3748)](https://www.prisma.io/)
+
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)](https://www.docker.com/)
 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
