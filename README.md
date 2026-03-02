@@ -2,7 +2,7 @@
 
 - 📫 Contactez-moi sur **to.doguet@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TxMy-Elu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TxMy-Elu&theme=onedark)](https://github.com/TxMy-Elu/github-profile-trophy)
 
 
 ## Me retrouver
