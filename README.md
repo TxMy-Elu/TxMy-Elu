@@ -2,9 +2,6 @@
 
 - 📫 Contactez-moi sur **to.doguet@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TxMy-Elu&theme=onedark)](https://github.com/TxMy-Elu/github-profile-trophy)
-
-
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/tom-doguet-7b8457271/?originalSubdomain=fr)
@@ -47,9 +44,3 @@
 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
-
-## Quelques stats
-
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=TxMy-Elu&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TxMy-Elu&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
