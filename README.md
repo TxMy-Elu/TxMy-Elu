@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Tom%20Doguet&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Assistant%20chef%20de%20projet%20SI%20%C2%B7%20Concepteur%20d%27applications&descAlignY=54&descSize=16&animation=fadeIn" />
 
-<a href="https://txmyelu-portfolio.vercel.app/">
+<a href="https://tom-doguet.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Assistant+chef+de+projet+informatique;MAALSI+2026-2028+%C2%B7+architecture+et+gestion+de+projet;Full+stack+%3A+Laravel+%C2%B7+Spring+Boot+%C2%B7+React;Un+chef+de+projet+qui+code+r%C3%A9ellement" alt="Typing SVG" />
 </a>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://txmyelu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://tom-doguet.app"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/tom-doguet-7b8457271/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:to.doguet@gmail.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/TxMy-Elu"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -266,7 +266,7 @@ ouvert_a:
 <a href="mailto:to.doguet@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/tom-doguet-7b8457271/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/TxMy-Elu"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://txmyelu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://tom-doguet.app"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
