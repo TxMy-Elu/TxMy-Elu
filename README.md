@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Tom%20Doguet&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Assistant%20chef%20de%20projet%20SI%20%26%20Concepteur%20d%27applications&descAlignY=54&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Tom%20Doguet&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Assistant%20chef%20de%20projet%20SI%20%C2%B7%20Concepteur%20d%27applications&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <a href="https://txmyelu-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Assistant+chef+de+projet+informatique;MAALSI+2026-2028+%C2%B7+architecture+%26+gestion+de+projet;Full+stack+%3A+Laravel+%C2%B7+Spring+Boot+%C2%B7+React;Un+chef+de+projet+qui+code+r%C3%A9ellement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Assistant+chef+de+projet+informatique;MAALSI+2026-2028+%C2%B7+architecture+et+gestion+de+projet;Full+stack+%3A+Laravel+%C2%B7+Spring+Boot+%C2%B7+React;Un+chef+de+projet+qui+code+r%C3%A9ellement" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -210,16 +210,6 @@ Développement de **Wisikard**, plateforme de cartes de visite numériques, men�
 <br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxMy-Elu&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&locale=fr" />
-
-</div>
-
----
-
-## Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TxMy-Elu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
