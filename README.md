@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Tom%20Doguet&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Concepteur%20d'applications%20%26%20Chef%20de%20projet%20SI&descAlignY=54&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Tom%20Doguet&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Assistant%20chef%20de%20projet%20SI%20%26%20Concepteur%20d'applications&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <a href="https://txmyelu-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Concepteur+d'applications;Futur+chef+de+projet+SI+%C2%B7+MAALSI+2026-2028;Full+stack+%3A+Laravel+%C2%B7+Spring+Boot+%C2%B7+React;Un+chef+de+projet+qui+code+r%C3%A9ellement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Assistant+chef+de+projet+informatique;MAALSI+2026-2028+%C2%B7+architecture+%26+gestion+de+projet;Full+stack+%3A+Laravel+%C2%B7+Spring+Boot+%C2%B7+React;Un+chef+de+projet+qui+code+r%C3%A9ellement" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,11 +31,11 @@
 
 ## À propos
 
-Concepteur d'applications en alternance chez **BATIGERE** au pôle Études & Développement, et étudiant au **CESI** où je termine le CDA avant d'enchaîner sur le **MAALSI (2026-2028)** — le titre de manager en architecture et applications logicielles des SI.
+**Assistant chef de projet informatique en alternance**, et étudiant au **CESI** où je termine le CDA avant d'enchaîner sur le **MAALSI (2026-2028)** — le titre de manager en architecture et applications logicielles des SI. En entreprise, j'ai d'abord travaillé comme concepteur logiciels (2025-2026) avant de basculer sur le **suivi de projets SI** : planning, comptes rendus de réunion, suivi des risques.
 
-Ma trajectoire va du code vers le **pilotage de projet informatique**, et je la revendique dans cet ordre. J'ai livré une application en production chez Sendix, j'ai été chef de projet sur deux projets CESI menés en équipe, et je travaille aujourd'hui sur le système d'information d'une entreprise. Un chef de projet qui a écrit le code, chiffré une tâche et vécu une mise en production discute autrement avec ses développeurs : c'est cette légitimité-là que je construis avant de piloter.
+Ma trajectoire va du code vers le **pilotage de projet informatique**, et je la revendique dans cet ordre. J'ai livré une application en production chez Sendix, j'ai été chef de projet sur deux projets CESI menés en équipe, et je pilote aujourd'hui des projets sur un système d'information d'entreprise. Un chef de projet qui a écrit le code, chiffré une tâche et vécu une mise en production discute autrement avec ses développeurs : c'est cette légitimité-là que je construis avant de piloter.
 
-Côté technique, je construis des applications de bout en bout — modèle de données, API, puis l'interface que l'utilisateur touche réellement. Mon socle est le **développement full stack** : Laravel et Spring Boot côté serveur, React et Next.js côté client, Flutter en mobile, sur MySQL, PostgreSQL et Oracle. En entreprise, j'interviens aussi sur des chaînes de traitement de données en **SQL Oracle et ETL Talend**.
+Côté technique, je construis des applications de bout en bout — modèle de données, API, puis l'interface que l'utilisateur touche réellement. Mon socle est le **développement full stack** : Laravel et Spring Boot côté serveur, React et Next.js côté client, Flutter en mobile, sur MySQL, PostgreSQL et Oracle. J'interviens aussi sur des traitements de données en **PL/SQL et ETL**.
 
 J'étends ce socle vers la **modélisation statistique et le ML appliqué** : [matchday-ai](https://github.com/TxMy-Elu/matchday-ai) prédit des résultats de matchs internationaux à partir de 49 481 rencontres historiques, en combinant ratings Elo, régression logistique multinomiale, GLM de Poisson et simulation Monte Carlo. Ce qui m'intéresse là-dedans, ce n'est pas le modèle pour lui-même, c'est de le rendre exploitable dans un produit.
 
@@ -90,7 +90,7 @@ J'aborde l'ingénierie avec un **état d'esprit produit** : une décision d'arch
 | **Simulation Monte Carlo** | ![](https://img.shields.io/badge/Appliqu%C3%A9-4c1d95?style=flat-square) | 20 000 tirages sur permutations de tableau à élimination directe pour dériver des probabilités de titre |
 | **Pipeline d'entraînement** | ![](https://img.shields.io/badge/Appliqu%C3%A9-4c1d95?style=flat-square) | Entraînement offline avec scikit-learn et statsmodels, artefact JSON versionné, inférence runtime en maths fermées sans dépendance ML |
 | **Évaluation & calibration** | ![](https://img.shields.io/badge/Appliqu%C3%A9-4c1d95?style=flat-square) | Backtest temporel plutôt que split aléatoire (fuite de données via l'Elo), log-loss et Brier multiclasse, courbes de calibration, comparaison systématique à des baselines |
-| **Ingénierie des données** | ![](https://img.shields.io/badge/Professionnel-4c1d95?style=flat-square) | SQL Oracle et ETL Talend en contexte entreprise chez BATIGERE ; normalisation et nettoyage de jeux de données historiques (49 481 matchs, 1872-2026) |
+| **Ingénierie des données** | ![](https://img.shields.io/badge/Professionnel-4c1d95?style=flat-square) | PL/SQL et ETL en contexte entreprise ; normalisation et nettoyage de jeux de données historiques (49 481 matchs, 1872-2026) |
 | **Serving de modèle** | ![](https://img.shields.io/badge/Appliqu%C3%A9-4c1d95?style=flat-square) | API FastAPI, chargement de l'artefact au démarrage, prédictions exposées à un SPA React |
 
 ---
@@ -144,18 +144,31 @@ L'enseignement principal de ce projet n'est pas technique mais opérationnel : �
 
 ## Expérience
 
-### Alternant — Pôle Études & Développement · BATIGERE GIE
-`Septembre 2025 — en cours`
+### Assistant chef de projet informatique · en alternance
+`Octobre 2026 — en cours`
 
-Alternance en développement applicatif au sein du pôle Études & Développement, en parallèle du CDA au CESI.
+Suivi de projets sur un système d'information d'entreprise, en parallèle du MAALSI au CESI.
 
-- Développement applicatif sur le système d'information interne
-- Conception et maintenance de traitements de données en SQL Oracle
-- Mise en œuvre de flux ETL avec Talend
+- Planning projet, jalons et suivi d'avancement
+- Comptes rendus de réunion et coordination avec les parties prenantes
+- Suivi des risques
+- Interface entre les équipes de développement et les équipes métier
+
+![](https://img.shields.io/badge/Gestion%20de%20projet-1e1b4b?style=flat-square&logoColor=A78BFA)
+![](https://img.shields.io/badge/M%C3%A9thodes%20agiles-1e1b4b?style=flat-square&logoColor=A78BFA)
+![](https://img.shields.io/badge/Architecture%20logicielle-1e1b4b?style=flat-square&logoColor=A78BFA)
+
+### Concepteur logiciels · en alternance
+`Septembre 2025 — Septembre 2026`
+
+Développement applicatif sur un système d'information d'entreprise, en parallèle du CDA au CESI.
+
+- Développement applicatif sur le système d'information
+- Conception et maintenance de traitements de données en PL/SQL
+- Mise en œuvre de flux ETL
 - Travail en environnement de production, sur des bases et des schémas existants
 
-![](https://img.shields.io/badge/SQL%20Oracle-1e1b4b?style=flat-square&logo=oracle&logoColor=A78BFA)
-![](https://img.shields.io/badge/Talend-1e1b4b?style=flat-square&logo=talend&logoColor=A78BFA)
+![](https://img.shields.io/badge/PL%2FSQL-1e1b4b?style=flat-square&logo=oracle&logoColor=A78BFA)
 ![](https://img.shields.io/badge/ETL-1e1b4b?style=flat-square&logoColor=A78BFA)
 ![](https://img.shields.io/badge/D%C3%A9veloppement%20applicatif-1e1b4b?style=flat-square&logoColor=A78BFA)
 
@@ -184,7 +197,7 @@ Développement de **Wisikard**, plateforme de cartes de visite numériques, men�
 | Établissement | Formation | Période |
 | :--- | :--- | :---: |
 | **CESI** | MAALSI — en alternance | 2026 — 2028 |
-| **CESI** | CDA — Concepteur Développeur d'Applications | 2025 — en cours |
+| **CESI** | CDA — Concepteur Développeur d'Applications | 2025 — 2026 |
 | **Lycée Raymond Poincaré** | BTS SIO | 2023 — 2025 |
 | **Université de Lorraine** | 1re année informatique | 2022 — 2023 |
 | **Lycée Raymond Poincaré** | Baccalauréat STI2D | 2021 — 2022 |
@@ -253,11 +266,11 @@ formation:
 apprentissage:
   - Pilotage de projet et méthodes agiles
   - Modélisation statistique appliquée aux produits
-  - SQL Oracle et ETL Talend en contexte entreprise
+  - PL/SQL et ETL en contexte entreprise
 
 en_cours:
   - matchday-ai — prédiction de matchs (Elo, Poisson, Monte Carlo)
-  - Alternance chez BATIGERE — pôle Études & Développement
+  - Alternance — assistant chef de projet informatique (suivi de projets SI)
 
 exploration:
   - Cadrage et recueil de besoin en environnement SI
