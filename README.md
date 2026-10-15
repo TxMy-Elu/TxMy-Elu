@@ -31,15 +31,9 @@
 
 ## À propos
 
-**Assistant chef de projet informatique en alternance**, et étudiant au **CESI** où je termine le CDA avant d'enchaîner sur le **MAALSI (2026-2028)** — le titre de manager en architecture et applications logicielles des SI. En entreprise, j'ai d'abord travaillé comme concepteur logiciels (2025-2026) avant de basculer sur le **suivi de projets SI** : planning, comptes rendus de réunion, suivi des risques.
+**Assistant chef de projet informatique en alternance**, étudiant au **CESI** (CDA, puis **MAALSI 2026-2028**). Ma trajectoire va du code vers le **pilotage de projet** — et je la revendique dans cet ordre : un chef de projet qui a écrit le code et vécu une mise en production discute autrement avec ses développeurs.
 
-Ma trajectoire va du code vers le **pilotage de projet informatique**, et je la revendique dans cet ordre. J'ai livré une application en production chez Sendix, j'ai été chef de projet sur deux projets CESI menés en équipe, et je pilote aujourd'hui des projets sur un système d'information d'entreprise. Un chef de projet qui a écrit le code, chiffré une tâche et vécu une mise en production discute autrement avec ses développeurs : c'est cette légitimité-là que je construis avant de piloter.
-
-Côté technique, je construis des applications de bout en bout — modèle de données, API, puis l'interface que l'utilisateur touche réellement. Mon socle est le **développement full stack** : Laravel et Spring Boot côté serveur, React et Next.js côté client, Flutter en mobile, sur MySQL, PostgreSQL et Oracle. J'interviens aussi sur des traitements de données en **PL/SQL et ETL**.
-
-J'étends ce socle vers la **modélisation statistique et le ML appliqué** : [matchday-ai](https://github.com/TxMy-Elu/matchday-ai) prédit des résultats de matchs internationaux à partir de 49 481 rencontres historiques, en combinant ratings Elo, régression logistique multinomiale, GLM de Poisson et simulation Monte Carlo. Ce qui m'intéresse là-dedans, ce n'est pas le modèle pour lui-même, c'est de le rendre exploitable dans un produit.
-
-J'aborde l'ingénierie avec un **état d'esprit produit** : une décision d'architecture se juge à ce qu'elle coûte à exploiter et à ce qu'elle permet pour la personne qui utilise le logiciel. Code lisible, frontières nettes, et des choses qui tiennent en production.
+Full stack sur le socle Laravel / Spring Boot / React / Flutter, avec une incursion assumée dans la **modélisation statistique** ([matchday-ai](https://github.com/TxMy-Elu/matchday-ai) : Elo, Poisson, Monte Carlo sur 49 481 matchs). État d'esprit produit : code lisible, frontières nettes, des choses qui tiennent en production.
 
 **Ouvert à**
 
