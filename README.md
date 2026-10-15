@@ -140,64 +140,6 @@ L'enseignement principal de ce projet n'est pas technique mais opérationnel : �
 
 </details>
 
-<details>
-<summary><b>CESIZen</b> — Écosystème multi-plateforme · <i>Chef de projet · Java · TypeScript · Flutter</i></summary>
-
-<br/>
-
-Projet CESI décliné sur trois plateformes autour d'une même API : un backend Java, un client web et une application mobile. **Projet mené en équipe de 2 à 3 personnes, dont j'assurais la chefferie de projet.**
-
-| | |
-| :--- | :--- |
-| **Rôle** | Chef de projet et développeur — équipe de 2 à 3 personnes |
-| **Stack** | Java (API) · TypeScript (web) · Dart / Flutter (mobile) |
-| **Pilotage** | Découpage et répartition des tâches, suivi d'avancement, planning et jalons, rituels agiles (sprints, daily, rétrospectives, backlog) |
-| **Portée** | Une API centrale et deux clients distincts consommant le même contrat |
-| **Dépôts** | [![api_zen](https://img.shields.io/badge/api__zen-4c1d95?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/TxMy-Elu/api_zen) [![cesizen_web](https://img.shields.io/badge/cesizen__web-4c1d95?style=flat-square&logo=typescript&logoColor=white)](https://github.com/TxMy-Elu/cesizen_web) [![cesizen_mobile](https://img.shields.io/badge/cesizen__mobile-4c1d95?style=flat-square&logo=flutter&logoColor=white)](https://github.com/TxMy-Elu/cesizen_mobile) |
-
-L'intérêt technique du projet est la contrainte du contrat d'API : deux clients écrits dans des langages différents consomment la même surface, ce qui interdit de rattraper une faiblesse de conception côté serveur par un contournement côté client. La discipline se joue à la frontière.
-
-Côté pilotage, c'est précisément cette contrainte qui structurait la coordination : trois plateformes développées en parallèle par une petite équipe, où le contrat d'API devait être figé avant que les clients avancent. Le vrai travail de chef de projet était là — séquencer pour que personne n'attende, et faire tenir la décision d'interface au bon moment.
-
-</details>
-
-<details>
-<summary><b>Ressources</b> — Application de gestion de ressources · <i>Chef de projet · PHP · TypeScript · Flutter</i></summary>
-
-<br/>
-
-Projet CESI construit sur le même principe : une API PHP, un front web TypeScript et un client Flutter. **Mené en équipe de 2 à 3 personnes, avec la chefferie de projet à ma charge.**
-
-| | |
-| :--- | :--- |
-| **Rôle** | Chef de projet et développeur — équipe de 2 à 3 personnes |
-| **Stack** | PHP (API) · TypeScript (front) · Dart / Flutter (mobile) |
-| **Pilotage** | Répartition et suivi des tâches, planning et jalons, rituels agiles |
-| **Portée** | API REST et deux clients — web et mobile |
-| **Dépôts** | [![ressources_api](https://img.shields.io/badge/ressources__api-4c1d95?style=flat-square&logo=php&logoColor=white)](https://github.com/TxMy-Elu/ressources_api) [![resources_front](https://img.shields.io/badge/resources__front-4c1d95?style=flat-square&logo=typescript&logoColor=white)](https://github.com/TxMy-Elu/resources_front) [![re_flutter](https://img.shields.io/badge/re__flutter-4c1d95?style=flat-square&logo=flutter&logoColor=white)](https://github.com/TxMy-Elu/re_flutter) |
-
-Après CESIZen en Java, refaire l'exercice en PHP a surtout servi à isoler ce qui relève de la conception d'API de ce qui relève du framework. Piloter une seconde fois la même forme de projet a eu le même effet côté organisation : les erreurs de séquencement du premier ne se sont pas répétées.
-
-</details>
-
-<details>
-<summary><b>Développement applicatif & données</b> — BATIGERE GIE · <i>SQL Oracle · ETL Talend</i></summary>
-
-<br/>
-
-Travail mené en alternance au pôle Études & Développement de BATIGERE GIE. Code interne, non public — cette carte décrit des compétences, pas des données ni des systèmes de l'entreprise.
-
-| | |
-| :--- | :--- |
-| **Stack** | SQL Oracle, ETL Talend, développement applicatif |
-| **Portée** | Développement applicatif et conception de traitements de données en contexte métier |
-| **Contexte** | Environnement d'entreprise : bases existantes, contraintes de production, exigences de fiabilité |
-| **Dépôt** | Interne — non public |
-
-C'est mon premier contact avec un système d'information qui existait bien avant moi et qui existera après : on n'y conçoit pas à partir d'une page blanche, on compose avec des schémas, des habitudes et des données réelles. Cette contrainte apprend des choses qu'aucun projet personnel n'enseigne.
-
-</details>
-
 ---
 
 ## Expérience
@@ -315,7 +257,6 @@ apprentissage:
 
 en_cours:
   - matchday-ai — prédiction de matchs (Elo, Poisson, Monte Carlo)
-  - Projets CESI — CESIZen et Ressources, en tant que chef de projet
   - Alternance chez BATIGERE — pôle Études & Développement
 
 exploration:
